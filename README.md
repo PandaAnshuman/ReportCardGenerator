@@ -6,7 +6,7 @@ Generate student report card easily and download it as .pdf format. easy to use,
 - works in Offline
 - Just edit the 4th section of index.html for desired report card
 
-Demo: https://PandaAnshuman.github.io/report-card-generator/
+Demo: https://PandaAnshuman.github.io/ReportcardGenerator/
 
 "Language Used"
 
