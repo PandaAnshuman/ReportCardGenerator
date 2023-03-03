@@ -7,7 +7,7 @@ Generate student report card easily and download it as .pdf format. easy to use,
 - Just edit the 4th section of index.html for desired report card
 
 
-Demo: 
+Demo: https://report-card-generator.vercel.app/
 
 "Language Used"
 
